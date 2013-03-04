@@ -1,0 +1,6 @@
+[submodule "android-support-v4"]
+	path = android-support-v4
+	url = git://github.com/futuresimple/android-support-v4.git
+[submodule "ActionBarSherlock"]
+	path = ActionBarSherlock
+	url = git://github.com/futuresimple/ActionBarSherlock.git
